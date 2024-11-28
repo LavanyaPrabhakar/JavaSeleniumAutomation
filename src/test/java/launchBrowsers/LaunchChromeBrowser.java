@@ -1,3 +1,10 @@
+/* Testcases:
+ *  Launch chrome browser
+ *  Open the url: "https://letcode.in/test"
+ *  Maximize the window
+ * 	validate title as "LetCode - Testing Hub"
+ * 	Close browser
+ */
 package launchBrowsers;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
